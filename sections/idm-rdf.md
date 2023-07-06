@@ -1,13 +1,13 @@
 #### IDM-RDF
 
 * Based on CIDOC CRM v7.1.1<!-- .element: class="fragment" -->
-* BioCRM extension (developed by Aalto)<!-- .element: class="fragment" -->
-* RDF Named Graphs for seperating sources<!-- .element: class="fragment" -->
+* Bio CRM extension for roles<!-- .element: class="fragment" -->
+* RDF Named Graphs for separating sources<!-- .element: class="fragment" -->
 * EDM inspired CRM native modeling of cultural heritage data<!-- .element: class="fragment" -->
 * Preliminary mapping of IDM-RDF to EDM<!-- .element: class="fragment" -->
-* PROV-O for provenance data<!-- .element: class="fragment" -->
-* BIBFRAME for references and citations<!-- .element: class="fragment" -->
 * adapted interpretation of Europeana's proxy model,<br/>which adapts the OAI/ORE model<!-- .element: class="fragment" -->
+* PROV-O for provenance data (work in progress)<!-- .element: class="fragment" -->
+* BIBFRAME for references and citations (work in progress)<!-- .element: class="fragment" -->
 
 +++
 
