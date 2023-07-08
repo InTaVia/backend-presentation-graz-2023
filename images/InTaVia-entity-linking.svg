@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.914906"
-     inkscape:cx="509.34194"
-     inkscape:cy="213.68315"
-     inkscape:window-width="2473"
-     inkscape:window-height="1205"
-     inkscape:window-x="1573"
-     inkscape:window-y="25"
+     inkscape:cx="610.44523"
+     inkscape:cy="412.06419"
+     inkscape:window-width="1512"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -320,13 +320,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-         x="210.24667"
-         y="265.19247"
+         x="215.30754"
+         y="265.55396"
          id="text113-0-7-2-8"><tspan
            sodipodi:role="line"
-           id="tspan8753-5-6-5"
-           x="210.24667"
-           y="265.19247">owl:sameAs</tspan></text>
+           id="tspan314"
+           x="215.30754"
+           y="265.55396">same-as</tspan></text>
     </g>
     <g
        id="g338"
@@ -376,9 +376,7 @@
          y="71.660011"
          id="text113-0-7-2"><tspan
            sodipodi:role="line"
-           id="tspan8753-5-6"
-           x="226.05368"
-           y="71.660011">owl:sameAs</tspan></text>
+           id="tspan556">wdt:P227 (GND ID)</tspan></text>
       <path
          d="m 224.98816,56.852932 0.27421,29.51518"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:0.3996;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#RoundedArrow-7-6)"
