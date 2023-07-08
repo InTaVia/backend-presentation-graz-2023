@@ -7,25 +7,25 @@
 
 #### entities per graph
 
-![the graph](images/analysis_charts/number_events_per_dataset_5_23.svg)<!-- .element: width="900" -->
+![the graph](images/analysis_charts/number_events_per_dataset_5_23.svg)<!-- .element: width="1000" -->
 
 +++
 
 #### stacked events histogram
 
-![histogram events](images/analysis_charts/stacked_events_over_years_cho_and_bio_2023-06-13.png)<!-- .element: width="900" -->
+![histogram events](images/analysis_charts/stacked_events_over_years_cho_and_bio_2023-06-13.png)<!-- .element: width="1000" -->
 
 +++
 
 #### gender
 
-![gender](images/analysis_charts/gender_6-23.png)<!-- .element: width="900" -->
+![gender](images/analysis_charts/gender_6-23.png)<!-- .element: width="1000" -->
 
 +++
 
 #### gender over time APIS & BS
 
-![gender over time](images/analysis_charts/gender_over_time_inkl_10_years_avg_6-2023.png)<!-- .element: width="900" -->
+![gender over time](images/analysis_charts/gender_over_time_inkl_10_years_avg_6-2023.png)<!-- .element: width="1000" -->
 
 +++
 
@@ -37,3 +37,7 @@
 </div>
 
 +++
+
+#### The Knowledgegraph as SNA
+
+![Intavia SNA](images/analysis_charts/sna_screenshot_2023-07-06.png)<!-- .element: width="1000" -->
