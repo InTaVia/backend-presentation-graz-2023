@@ -11,6 +11,12 @@
 
 +++
 
+#### entities across datasets
+
+![the graph](images/analysis_charts/number_interlinks_v2.png)<!-- .element: width="1000" -->
+
++++
+
 #### stacked events histogram
 
 ![histogram events](images/analysis_charts/stacked_events_over_years_cho_and_bio_2023-06-13.png)<!-- .element: width="1000" -->
